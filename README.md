@@ -37,16 +37,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ### Project Motivation
 
-For this project, I was interestested in using  to better understand:
+For this project, I was interestested in using Ford GoBike's trip data for public containing bike rides from Fall 2017.  to better understand:
 
-Which European Clubs are spending more on wages.?
-Which European Clubs are fielding more Younger players than any other clubs in the Top Flight Competitions.?
-Do managers have an Impact on building their Respective teams and increasing the performance of their team players.?(We will See the Elite Team Managers such as Pep Guardiola, Jürgen Klopp, Zinedine Zidane).
-The full set of files related to th analysis,are publicly available here. However, you can see detailed analysis in my blog post @medium.
 
 # **Summary of Findings:**
 
-1. we can say that the time utilised by the users is fairly right skewed.we have right skew issue whihc should be solved by using
+1. we can say that the time utilised by the users is fairly right skewed.we have right skew issue which should be solved by using
 logarthimic scale.bike durations range from less than 1 minute to 1400+ minutes with median at around 9 min and mean at around 12 min. 
 We have to do some data transformation to make data visualization and data interpretation easiler.
 
