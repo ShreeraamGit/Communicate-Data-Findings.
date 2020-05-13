@@ -36,7 +36,7 @@ For this project i wanted to answer the business questions like,
 
 ### 3.File Descriptions
 
-### 5.Licensing, Authors, and Acknowledgements
+This repostry has the Jupyter notebook where you can refer call codes for Analysis.
 
 # **Summary of Findings:**
 
