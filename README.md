@@ -1,8 +1,6 @@
 # Communicate-Data-Findings-Project
 
-This repostry contains the files related to my blog post analysis which describes the performance of football teams and the managers.
-
-Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System for April, 2019
+This repostry contains the files related to Analysis/Data Visualization Report: Bike Ride Trends and Biker Types of Ford GoBike System for April, 2019
 
 
 #### Dataset
@@ -23,22 +21,22 @@ Each trip is anonymized and includes:
 •	Bike ID
 •	User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual).
 
-### Table of Contents
-
 ### 1.Installation
+
+The code should run with no issues using Python versions 3.*
+
 ### 2.Project Motivation
+
+For this project i wanted to answer the business questions like,
+
+- The time utilised by the users.
+- Time of the day most users prefer to use the services.
+- Day of the week most users prefer to use the services.
+- Month of the week  most users prefer to use the services.
+
 ### 3.File Descriptions
-### 4.Results
+
 ### 5.Licensing, Authors, and Acknowledgements
-
-### Installation.
-
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
-
-### Project Motivation
-
-For this project, I was interestested in using Ford GoBike's trip data for public containing bike rides from Fall 2017.  to better understand:
-
 
 # **Summary of Findings:**
 
@@ -57,3 +55,10 @@ We have to do some data transformation to make data visualization and data inter
 6. As we already know that the months October and September are the most preferred months for the users but every month they tend to use the services for longer times on Saturdays and Sundays.
 
 7. From the Distplot we can see that the Saturday and Sunday the users tend to use the services between 10:00 hrs - 20:00 hrs.And in weekdays the users tend to use the service more between 6:00 hrs - 10:00 hrs & 15:00 hrs - 19:00 hrs.
+
+
+### 5.Licensing, Authors, and Acknowledgements.
+
+This data set used for training is provided by [System Data bay Wheels](https://www.lyft.com/bikes/bay-wheels/system-data)
+
+
